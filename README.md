@@ -1,11 +1,15 @@
-### PDF Extractor and Image Compression
+## PDF Extractor and Image Compression
 This Django project allows users to upload PDF files, extract text and images from them, compress images, and download the images as a ZIP file. It uses fitz (PyMuPDF) for PDF processing, Pillow for image compression, and Django for web functionality.
 
 ## Features
-# Upload PDF Files: Users can upload PDF files through the web interface.
-# Extract Text and Images: Extracts text and images from the uploaded PDFs.
-# Image Compression: Extracted images are compressed to reduce file size without significant loss in quality.
-# Download as ZIP: Allows users to download all extracted images as a single ZIP file.
+# Upload PDF Files:
+Users can upload PDF files through the web interface.
+# Extract Text and Images:
+Extracts text and images from the uploaded PDFs.
+# Image Compression:
+Extracted images are compressed to reduce file size without significant loss in quality.
+# Download as ZIP:
+Allows users to download all extracted images as a single ZIP file.
 
 ## Installation
 Clone this repository:
