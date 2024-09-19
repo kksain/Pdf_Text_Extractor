@@ -23,7 +23,11 @@ python manage.py runserver
 Open your browser and go to http://127.0.0.1:8000/ to access the upload page.
 
 ## Usage
-# Upload a PDF: Users can upload a PDF file on the main page.
-# Extract Text and Images: Upon successful upload, the application extracts text and images from the PDF.
-# Compressed Images: Extracted images are compressed to a size less than 200KB while maintaining quality.
-# Download Images as ZIP: Users can download all extracted and compressed images in a single ZIP file.
+# Upload a PDF:
+Users can upload a PDF file on the main page.
+# Extract Text and Images:
+Upon successful upload, the application extracts text and images from the PDF.
+# Compressed Images:
+Extracted images are compressed to a size less than 200KB while maintaining quality.
+# Download Images as ZIP:
+Users can download all extracted and compressed images in a single ZIP file.
